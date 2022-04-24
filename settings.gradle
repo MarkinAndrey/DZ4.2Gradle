@@ -1,0 +1,5 @@
+rootProject.name = 'DZ4.2Gradle'
+include 'db'
+include 'api'
+include 'service'
+
